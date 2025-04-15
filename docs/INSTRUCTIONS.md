@@ -29,6 +29,7 @@ Voor het testen van _Performance_ kun je een website automatisch testen in de br
 1. Eerst ga je een [Lighthouse test](#1-lighthouse-test) doen van een bestaande website en documenteer je de belangrijkste bevindingen uit de test in je Wiki
 2. Daarna gebruik je [PageSpeed Insights](#2-pagespeed-insights) om een inzicht te krijgen in de _Real User Metrics_ van die website, die je ook documenteert in je Wiki
 3. Vervolgens onderzoek je met [WebPageTest](#3-webpagetest) de mogelijke oorzaken en oplossingen van problemen, die je ook documenteert in je Wiki
+4. Als laatste pas je de Readme van dit project aan, zodat je daar een korte samenvatting hebt staan
 
 ### Bronnen voor documenteren
 
