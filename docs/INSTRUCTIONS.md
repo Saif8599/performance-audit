@@ -128,6 +128,10 @@ Zo ziet een Waterfall chart van WebPagetest er uit:
 - [How to read a WebPageTest Waterfall View chart](https://nooshu.com/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/)
 
 
+### 4. Readme aanpassen
+
+Maak een korte samenvatting in de Readme van deze repository.
+
 ## Definition of done
 
 Deze opdracht is done als:
@@ -136,3 +140,4 @@ Deze opdracht is done als:
 - [ ] Je hebt voor Desktop een Lighthouse Performance test gedaan op een bestaande website en de test is gedocumenteerd in de Wiki van deze deeltaak
 - [ ] Je hebt een PageSpeed Insights test gedaan op een bestaande website en de verschillen en Real User Metrics van de Chrome User Experience Report data zijn gedocumenteerd in de Wiki van deze deeltaak
 - [ ] Je hebt een WebPageTest Site Performance test gedaan op een bestaande website en de waterfall chart is gedocumenteerd in de Wiki van deze deeltaak
+- [ ] Je hebt een korte samenvatting in je Readme toegevoegd
