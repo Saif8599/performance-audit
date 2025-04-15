@@ -26,7 +26,7 @@ Een goede snelle website voldoet onder andere aan de _Web Vitals metrics_. Googl
 
 Voor het testen van _Performance_ kun je een website automatisch testen in de browser met bijvoorbeeld de tool _Lighthouse_ van Google (die we ook al gebruikten voor de WCAG Audit uit Sprint 3). Voor deze opdracht ga je zo'n test uitvoeren en documenteer je wat je hebt getest in de Wiki van deze deeltaak.
 
-1. Eerst ga je een [Lighthouse test](#1-lighthouse-test) doen van een bestaande website en documenteer je de belangrijkste bevindingen uit de test in je Wiki
+1. Eerst ga je een [Lighthouse Performance test](#1-lighthouse-performance-test) doen van een bestaande website en documenteer je de belangrijkste bevindingen uit de test in je Wiki
 2. Daarna gebruik je [PageSpeed Insights](#2-pagespeed-insights) om een inzicht te krijgen in de _Real User Metrics_ van die website, die je ook documenteert in je Wiki
 3. Vervolgens onderzoek je met [WebPageTest](#3-webpagetest) de mogelijke oorzaken en oplossingen van problemen, die je ook documenteert in je Wiki
 4. Als laatste pas je de Readme van dit project aan, zodat je daar een korte samenvatting hebt staan
@@ -37,7 +37,7 @@ Voor het testen van _Performance_ kun je een website automatisch testen in de br
 - [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-### 1. Lighthouse test
+### 1. Lighthouse Performance test
 
 Lighthouse is een geautomatiseerde test die je in een Chrome (of op Chromium gebaseerde) browser kan uitvoeren. Je kent deze tool als het goed is al van de [WCAG Audit](https://github.com/fdnd-task/wcag-audit) uit Sprint 3.
 
@@ -70,7 +70,7 @@ En zo kun je de verschillende Diagnostics bekijken:
 - Run de test nogmaals, deze keer voor Desktop, maak een screenshot van de score en zet deze in de Wiki.
 - Bekijk de _Diagnostics_ van het Lighthouse rapport en documenteer de (grote) verschillen met je Mobile test in je Wiki.
 
-#### Bronnen Lighthouse test
+#### Bronnen Lighthouse Performance test
 
  - [Lighthouse performance scoring](https://developer.chrome.com/docs/lighthouse/performance/)
  - [Web Vitals](https://web.dev/articles/vitals)
