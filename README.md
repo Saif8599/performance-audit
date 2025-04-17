@@ -27,9 +27,9 @@ Voor deze audit heb ik de website [lumion](https://lumion.amsterdam/) getest op 
 Uit de tests blijkt dat de website op smartphones veel trager laadt dan op computers.
 
 Dit komt door:
--Langzame LCP: Het belangrijkste element (zoals een grote afbeelding of koptekst) verschijnt op mobiel veel langzamer terwijl dit op desktop snel zichtbaar word.
-- Render-blokkades: CSS- en JavaScript-bestanden houden de pagina tegen bij het opbouwen.
--Externe vertragers: Google Fonts en Analytics zorgen voor extra wachttijd.
+* Langzame LCP: Het belangrijkste element (zoals een grote afbeelding of koptekst) verschijnt op mobiel veel langzamer terwijl dit op desktop snel zichtbaar word.
+* Render-blokkades: CSS- en JavaScript-bestanden houden de pagina tegen bij het opbouwen.
+* Externe vertragers: Google Fonts en Analytics zorgen voor extra wachttijd.
 
 ## Licentie
 
